@@ -206,8 +206,6 @@ Visualization:
 
 * Scatter plot: Tenure vs Monthly Charges
 
-Why this is important:
-
 * Introduces relationship analysis between numeric variables
 * Shows customer value behavior over time
 
@@ -216,55 +214,22 @@ Business Value:
 * Helps understand revenue patterns across customer lifecycle
 
 ---
-
-## 🔹 Key Skills Demonstrated
-
-* Data cleaning & preprocessing
-* Handling real-world data quality issues
-* Business-driven exploratory data analysis (EDA)
-* Categorical vs numerical analysis
-* Multiple visualization types:
-
-  * Bar charts
-  * Histograms
-  * Scatter plots
-* Translating data into business insights
-
+ 
 ---
 
 ## 🔹 Future Work (Planned Enhancements)
 
 * Revenue impact of churn analysis
 * High-risk customer profiling
-* Correlation analysis between numeric features
 * Simple churn segmentation
 * Feature engineering
-* (Optional) Basic predictive modeling
+ 
 
 ---
-
-## 🔹 How to Run This Project
-
-1. Clone this repository
-2. Install required libraries:
-
-```bash
-pip install pandas numpy matplotlib
-```
-
-3. Open Jupyter Notebook
-4. Run `Customer_Churn_Analysis.ipynb`
+ 
 
 ---
-
-## 🔹 Interview Summary (What I Can Explain)
-
-In interviews, I can confidently explain:
-
-* How I cleaned and prepared real-world data
-* How I identified key churn drivers
-* How I used different visualization types
-* How I translated analysis into business recommendations
+ 
 
 ---
 
