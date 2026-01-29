@@ -271,9 +271,9 @@ In interviews, I can confidently explain:
 ## 🔹 Author
 
 Vaibhav Gaikwad
-Computer Science / AI-DS
-Python Data Analytics Project
+vaibhavgaikwad1632@gmail.com
+ 
 
 ---
 
-⭐ This project is structured to reflect real-world analytics thinking rather than repetitive template analysis.
+ 
