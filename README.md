@@ -4,14 +4,6 @@
 
 This project focuses on analyzing customer churn for a telecom company using Python. The goal is to understand **why customers leave**, identify key churn drivers, and extract actionable business insights using real-world data.
 
-This project is designed from a **recruiter and interview perspective**, emphasizing:
-
-* Proper project structure
-* Business-driven questions
-* Clean data preparation
-* Multiple types of visualizations
-* Clear, explainable insights
-
 ---
 
 ## 🔹 Dataset
@@ -28,21 +20,13 @@ The dataset contains information about:
 * Charges and tenure
 * Churn status (target variable)
 
-Target Variable:
-
-* `Churn` (Yes = customer left, No = customer stayed)
+ 
+ 
 
 ---
 
-## 🔹 Tools & Libraries Used
-
-* **Python**
-* **Pandas** – Data loading, cleaning, grouping, analysis
-* **NumPy** – Numerical support
-* **Matplotlib** – Data visualization
-
-(Seaborn is intentionally NOT used to keep the project beginner-friendly and core-focused.)
-
+ 
+ 
 ---
 
 ## 🔹 Project Structure
@@ -54,11 +38,6 @@ Target Variable:
 * Checked dataset shape and structure
 * Previewed data using `head()`
 * Inspected column names and data types using `info()`
-
-Why this matters:
-
-> Establishes understanding of data before jumping into analysis.
-
 ---
 
 ### 2. Data Cleaning & Preparation
@@ -223,10 +202,6 @@ Business Value:
 * High-risk customer profiling
 * Simple churn segmentation
 * Feature engineering
- 
-
----
- 
 
 ---
  
